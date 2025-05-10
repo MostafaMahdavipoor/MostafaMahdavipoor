@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0d1117&fontColor=00ff00&height=120&section=header&text=Mostafa%20Mahdavipoor&fontSize=30" />
-</p>
+
 
 ### 👋 Hi, I’m @MostafaMahdavipoor
 
